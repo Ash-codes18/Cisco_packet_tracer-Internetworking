@@ -1,7 +1,0 @@
-Implementation of RIP using classful. 
-	      OR
-Dynamic routing using classful.
-
-
-use Router - 2811
-add port = NM-1FE-TX
